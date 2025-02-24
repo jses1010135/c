@@ -9,6 +9,9 @@ mytuple = (1,2,3,4,5) # 元組
 myset = {1,2,3,4,5} # 集合
 mydict = {'a':1,'b':2,'c':3} # 字典
 
+print (mylist[3])
+print (mylist[0])
+print (mylist[7])
 print (f"mylist={mylist}") # 串列
 print (f"mytuple={mytuple}") # 元組
 print (f"myset={myset}") # 集合
