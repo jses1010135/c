@@ -1,0 +1,16 @@
+bulin0=True # 布林
+bulin1=False # 布林
+bulin2=(2>1)
+bulin3=(2<1)
+bulin4=not(2>1)
+print (f"bulin0={bulin0}") # 布林
+print (f"bulin1={bulin1}") # 布林
+print (f"bulin2={bulin2}") # 布林
+print (f"bulin3={bulin3}") # 布林
+print (f"bulin0+bulin1={bulin0+bulin1}") # 布林+布林
+print (f"bulin2+bulin3={bulin2+bulin3}") # 布林+布林
+print (f"bulin4={bulin4}") # 布林
+print (f"not(bulin0)={not(bulin0)}") # not(布林)
+print (f"not(bulin1)={not(bulin1)}") # not(布林)
+print (f"not(bulin2)={not(bulin2)}") # not(布林)
+print (f"not(bulin3)={not(bulin3)}") # not(布林)
