@@ -1,0 +1,13 @@
+s=set()
+s1=set([30,58,87,25,30,65,30])
+print(s1)
+l=[30,58,87,25,30,65,30]
+l=list(set(l))
+print(f"l1=",l)
+c= list(s1)
+s.add(30)
+s.add(65)
+s.add(87)
+s.add(25)
+s.add(25)
+print(s) 
