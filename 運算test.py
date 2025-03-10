@@ -37,4 +37,31 @@ not a#not
 a<<b#左移
 a>>b#右移
 
+#指定運算子
+a+=b# a=a+b
+a-=b# a=a-b
+a*=b# a=a*b
+a/=b# a=a/b
+a//=b# a=a//b
+a%=b# a=a%b
+a**=b# a=a**b
+a&=b# a=a&b
+a|=b# a=a|b
+a^=b# a=a^b
+a<<=b# a=a<<b
+a>>=b# a=a>>b
+#test
+y=100
+d=200
+f=300
+z=400
+x=2*(1/y)
+print(x)
+y=a*x+b
+x=a**2+b**2
+x=(a**2+b**2)**(1/2)
+x=(a+b)/(c-d)
+c=(f-32)*5/9
+x=(-b+(b**2-4*a*c)**(1/2))/(2*a)
+z=(a+z/y)**(1/3)
 print(c)
