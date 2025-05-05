@@ -3,5 +3,6 @@ d = {}
 for item in items:
     d[item[0]] = item[1]
 print(20 in d.values())
-print(d)
+d=eval(input("請輸入:"))
+print(items)
 
